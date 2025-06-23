@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **benmohamedahlemm@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AhlemBenmed/Aboutme/blob/main/AhlemBenMohamed%20(1).pdf](https://github.com/AhlemBenmed/Aboutme/blob/main/AhlemBenMohamed%20(1).pdf)
+- 📄 Know about my experiences [Myresume](https://github.com/AhlemBenmed/Aboutme/blob/main/AhlemBenMohamed%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
